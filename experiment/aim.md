@@ -1,1 +1,1 @@
-#### To study various parts of Auto Level.
+#### To study various parts of auto level.
