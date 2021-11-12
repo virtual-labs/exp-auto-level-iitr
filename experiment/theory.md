@@ -1,5 +1,4 @@
-### Introduction
-<br>
+### Introduction<br>
 Surveying or land surveying is the technique, profession, art, and science of determining the terrestrial or three-dimensional positions of points and the distances and angles between them. A land surveying professional is called a land surveyor. These points are usually on the surface of the Earth, and they are often used to establish maps and boundaries for ownership, locations, such as building corners or the surface location of subsurface features, or other purposes required by government or civil law, such as property sales. You can look at the lecture notes, browse through slides, and also see an animation that can run several examples.<br>
 
 This experiment is useful to study all the equipments used for surveying as well as for auto level. It contains the audio, visual as well as the cross sectional view and description of each part of equipment.<br>
