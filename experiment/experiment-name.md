@@ -1,1 +1,1 @@
-## Study of various parts of Auto Level.
+## Study of various parts of auto level.
